@@ -71,5 +71,5 @@ A premium, world-class mobile application built for a university assignment (UTS
 
 ---
 
-**Developed by Muhammad Zulkarnein (2306158)**
-*Advanced Mobile Programming Assignment*
+**Muhamad Chikal Ubaidillah Nurhasan (2306158)**
+
