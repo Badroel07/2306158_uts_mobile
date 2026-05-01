@@ -25,7 +25,7 @@ A premium, world-class mobile application built for a university assignment (UTS
 
 | Registration Page | Home Page | Quest Detail |
 | :---: | :---: | :---: |
-| ![Reg](https://raw.githubusercontent.com/Badroel07/2306158_uts_mobile/main/assets/images/slime.png) | ![Home](https://raw.githubusercontent.com/Badroel07/2306158_uts_mobile/main/assets/images/cat.png) | ![Detail](https://raw.githubusercontent.com/Badroel07/2306158_uts_mobile/main/assets/images/goblin.png) |
+| ![Reg](assets/images/login.png) | ![Home](assets/images/home.png) | ![Detail](assets/images/detail_quest.png) |
 | *Modern Inputs* | *Dashboard* | *Mission Briefing* |
 
 *(Note: Actual screenshots can be added here once captured)*
